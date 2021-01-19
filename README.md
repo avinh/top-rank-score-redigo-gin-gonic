@@ -2,7 +2,7 @@
 
 ## Tech Specs:
 
-- [x] Redis
+- [x] Redigo
 
 - [x] Gin Gonic
 
